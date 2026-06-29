@@ -1,0 +1,12 @@
+Order ID = Unique order number
+
+Sales = Revenue earned from a sale
+
+Profit = Money remaining after expenses
+
+Category = Product group
+
+Examples of Categories:
+Furniture
+Technology
+Office Supplies
